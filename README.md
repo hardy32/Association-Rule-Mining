@@ -1,1 +1,1 @@
-# Association-Rule-Mining
+# Association Rules
